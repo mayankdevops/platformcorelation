@@ -22,4 +22,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <!-- Just adding a comment -->
 </project>
