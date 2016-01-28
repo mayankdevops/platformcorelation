@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="daoImpl.Client_Login_DaoImplTest" time="1.702" tests="6" errors="0" skipped="0" failures="0">
+<testsuite name="daoImpl.Client_Login_DaoImplTest" time="1.709" tests="6" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/opt/jdk1.7.0_79/jre/lib/amd64"/>
@@ -57,10 +57,10 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testcheckLoginHasEmptyqeryResult" classname="daoImpl.Client_Login_DaoImplTest" time="1.63"/>
-  <testcase name="testcheckLoginExceptionHanlded" classname="daoImpl.Client_Login_DaoImplTest" time="0.015"/>
-  <testcase name="testcheckLoginExHandllewithlesslist" classname="daoImpl.Client_Login_DaoImplTest" time="0.02"/>
+  <testcase name="testcheckLoginHasEmptyqeryResult" classname="daoImpl.Client_Login_DaoImplTest" time="1.634"/>
+  <testcase name="testcheckLoginExceptionHanlded" classname="daoImpl.Client_Login_DaoImplTest" time="0.016"/>
+  <testcase name="testcheckLoginExHandllewithlesslist" classname="daoImpl.Client_Login_DaoImplTest" time="0.021"/>
   <testcase name="changepw" classname="daoImpl.Client_Login_DaoImplTest" time="0.014"/>
-  <testcase name="changepwExceptionHanlded" classname="daoImpl.Client_Login_DaoImplTest" time="0.009"/>
-  <testcase name="testcheckLogin" classname="daoImpl.Client_Login_DaoImplTest" time="0.014"/>
+  <testcase name="changepwExceptionHanlded" classname="daoImpl.Client_Login_DaoImplTest" time="0.012"/>
+  <testcase name="testcheckLogin" classname="daoImpl.Client_Login_DaoImplTest" time="0.012"/>
 </testsuite>

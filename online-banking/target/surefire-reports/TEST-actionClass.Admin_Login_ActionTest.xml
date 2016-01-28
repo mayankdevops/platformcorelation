@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="actionClass.Admin_Login_ActionTest" time="1.712" tests="16" errors="0" skipped="0" failures="0">
+<testsuite name="actionClass.Admin_Login_ActionTest" time="1.689" tests="16" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/opt/jdk1.7.0_79/jre/lib/amd64"/>
@@ -57,19 +57,19 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testCheckLogintestCheckLoginfailPasswordEmpty" classname="actionClass.Admin_Login_ActionTest" time="1.606"/>
-  <testcase name="testCheckLogintestCheckLoginfailBankIdEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.005"/>
-  <testcase name="testCheckLogintestCheckLoginSuccessBankIdEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.008"/>
-  <testcase name="testCheckLogintestCheckLoginErrorBankIdNull" classname="actionClass.Admin_Login_ActionTest" time="0.005"/>
+  <testcase name="testChangePwFailnotmatch" classname="actionClass.Admin_Login_ActionTest" time="1.583"/>
+  <testcase name="testChangePwSuccess" classname="actionClass.Admin_Login_ActionTest" time="0.013"/>
+  <testcase name="testChangePwSuccessTestnot" classname="actionClass.Admin_Login_ActionTest" time="0.009"/>
+  <testcase name="testChangePwSuccessTestgood" classname="actionClass.Admin_Login_ActionTest" time="0.009"/>
   <testcase name="testEmplogout" classname="actionClass.Admin_Login_ActionTest" time="0.022"/>
-  <testcase name="testCheckLoginGetCoverage" classname="actionClass.Admin_Login_ActionTest" time="0.006"/>
-  <testcase name="testChangePwFailoldPwEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.004"/>
-  <testcase name="testChangePwFailNewPwEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.005"/>
-  <testcase name="testChangePwFailCNewPwEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.007"/>
-  <testcase name="testChangePwFailnotmatch" classname="actionClass.Admin_Login_ActionTest" time="0.006"/>
-  <testcase name="testChangePwSuccess" classname="actionClass.Admin_Login_ActionTest" time="0.008"/>
-  <testcase name="testChangePwSuccessTestnot" classname="actionClass.Admin_Login_ActionTest" time="0.007"/>
-  <testcase name="testChangePwSuccessTestgood" classname="actionClass.Admin_Login_ActionTest" time="0.006"/>
+  <testcase name="testCheckLoginGetCoverage" classname="actionClass.Admin_Login_ActionTest" time="0.005"/>
+  <testcase name="testCheckLogintestCheckLoginfailPasswordEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.003"/>
+  <testcase name="testCheckLogintestCheckLoginfailBankIdEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.004"/>
+  <testcase name="testCheckLogintestCheckLoginSuccessBankIdEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.005"/>
+  <testcase name="testCheckLogintestCheckLoginErrorBankIdNull" classname="actionClass.Admin_Login_ActionTest" time="0.005"/>
+  <testcase name="testChangePwFailoldPwEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.007"/>
+  <testcase name="testChangePwFailNewPwEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.003"/>
+  <testcase name="testChangePwFailCNewPwEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.004"/>
   <testcase name="testCheckLoginfailUsNameEmpty" classname="actionClass.Admin_Login_ActionTest" time="0.003"/>
   <testcase name="testLogin" classname="actionClass.Admin_Login_ActionTest" time="0.012"/>
   <testcase name="testExecute" classname="actionClass.Admin_Login_ActionTest" time="0.002"/>

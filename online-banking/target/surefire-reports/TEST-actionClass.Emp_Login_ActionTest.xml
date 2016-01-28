@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="actionClass.Emp_Login_ActionTest" time="1.671" tests="15" errors="0" skipped="0" failures="0">
+<testsuite name="actionClass.Emp_Login_ActionTest" time="1.622" tests="15" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/opt/jdk1.7.0_79/jre/lib/amd64"/>
@@ -57,16 +57,16 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testCheckLogintestCheckLoginfailPasswordEmpty" classname="actionClass.Emp_Login_ActionTest" time="1.591"/>
-  <testcase name="testCheckLogintestCheckLoginfailBankIdEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.004"/>
-  <testcase name="testCheckLogintestCheckLoginSuccessBankIdEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.008"/>
+  <testcase name="testCheckLogintestCheckLoginfailBankIdEmpty" classname="actionClass.Emp_Login_ActionTest" time="1.539"/>
+  <testcase name="testCheckLogintestCheckLoginSuccessBankIdEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.009"/>
   <testcase name="testCheckLogintestCheckLoginErrorBankIdNull" classname="actionClass.Emp_Login_ActionTest" time="0.005"/>
-  <testcase name="testChangePwFailoldPwEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.004"/>
   <testcase name="testChangePwFailNewPwEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.004"/>
   <testcase name="testChangePwFailCNewPwEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.004"/>
-  <testcase name="testChangePwFailnotmatch" classname="actionClass.Emp_Login_ActionTest" time="0.005"/>
+  <testcase name="testCheckLogintestCheckLoginfailPasswordEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.004"/>
+  <testcase name="testChangePwFailoldPwEmpty" classname="actionClass.Emp_Login_ActionTest" time="0.004"/>
+  <testcase name="testChangePwFailnotmatch" classname="actionClass.Emp_Login_ActionTest" time="0.006"/>
   <testcase name="testChangePwSuccess" classname="actionClass.Emp_Login_ActionTest" time="0.008"/>
-  <testcase name="testChangePwSuccessTestnot" classname="actionClass.Emp_Login_ActionTest" time="0.006"/>
+  <testcase name="testChangePwSuccessTestnot" classname="actionClass.Emp_Login_ActionTest" time="0.007"/>
   <testcase name="testChangePwSuccessTestgood" classname="actionClass.Emp_Login_ActionTest" time="0.006"/>
   <testcase name="testEmplogout" classname="actionClass.Emp_Login_ActionTest" time="0.02"/>
   <testcase name="testCheckLoginGetCoverage" classname="actionClass.Emp_Login_ActionTest" time="0.003"/>

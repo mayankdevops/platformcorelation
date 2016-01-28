@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="actionClass.Emp_AddTrans_ActionTest" time="1.593" tests="5" errors="0" skipped="0" failures="0">
+<testsuite name="actionClass.Emp_AddTrans_ActionTest" time="1.613" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/opt/jdk1.7.0_79/jre/lib/amd64"/>
@@ -57,9 +57,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testEmpAddTransWithdraw" classname="actionClass.Emp_AddTrans_ActionTest" time="1.562"/>
+  <testcase name="testEmpAddTransWithdraw" classname="actionClass.Emp_AddTrans_ActionTest" time="1.582"/>
   <testcase name="testEmpAddTransWithdrawTestfalse" classname="actionClass.Emp_AddTrans_ActionTest" time="0.01"/>
   <testcase name="testEmpAddTransviewcls" classname="actionClass.Emp_AddTrans_ActionTest" time="0.006"/>
-  <testcase name="testSetGetWithcoverage" classname="actionClass.Emp_AddTrans_ActionTest" time="0.005"/>
-  <testcase name="testEmpAddTransDeposit" classname="actionClass.Emp_AddTrans_ActionTest" time="0.01"/>
+  <testcase name="testSetGetWithcoverage" classname="actionClass.Emp_AddTrans_ActionTest" time="0.006"/>
+  <testcase name="testEmpAddTransDeposit" classname="actionClass.Emp_AddTrans_ActionTest" time="0.009"/>
 </testsuite>

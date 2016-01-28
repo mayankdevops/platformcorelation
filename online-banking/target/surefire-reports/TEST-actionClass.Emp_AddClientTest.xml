@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="actionClass.Emp_AddClientTest" time="1.596" tests="3" errors="0" skipped="0" failures="0">
+<testsuite name="actionClass.Emp_AddClientTest" time="1.624" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/opt/jdk1.7.0_79/jre/lib/amd64"/>
@@ -57,7 +57,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testEmp_EditClient" classname="actionClass.Emp_AddClientTest" time="1.59"/>
-  <testcase name="testEmp_AddClients" classname="actionClass.Emp_AddClientTest" time="0.002"/>
+  <testcase name="testEmp_AddClients" classname="actionClass.Emp_AddClientTest" time="1.605"/>
+  <testcase name="testEmp_EditClient" classname="actionClass.Emp_AddClientTest" time="0.015"/>
   <testcase name="testEmp_AddClient" classname="actionClass.Emp_AddClientTest" time="0.004"/>
 </testsuite>

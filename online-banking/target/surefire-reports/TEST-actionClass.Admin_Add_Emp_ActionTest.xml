@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="actionClass.Admin_Add_Emp_ActionTest" time="1.592" tests="5" errors="0" skipped="0" failures="0">
+<testsuite name="actionClass.Admin_Add_Emp_ActionTest" time="1.59" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/opt/jdk1.7.0_79/jre/lib/amd64"/>
@@ -57,9 +57,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase name="testAddEmps" classname="actionClass.Admin_Add_Emp_ActionTest" time="1.574"/>
+  <testcase name="testAddEmps" classname="actionClass.Admin_Add_Emp_ActionTest" time="1.573"/>
   <testcase name="testgetAdd" classname="actionClass.Admin_Add_Emp_ActionTest" time="0.002"/>
   <testcase name="testgetAdds" classname="actionClass.Admin_Add_Emp_ActionTest" time="0.011"/>
   <testcase name="testgetXYZ" classname="actionClass.Admin_Add_Emp_ActionTest" time="0.002"/>
-  <testcase name="testAddEmp" classname="actionClass.Admin_Add_Emp_ActionTest" time="0.003"/>
+  <testcase name="testAddEmp" classname="actionClass.Admin_Add_Emp_ActionTest" time="0.002"/>
 </testsuite>
