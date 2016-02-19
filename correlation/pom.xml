@@ -16,7 +16,7 @@
   <distributionManagement>
     <snapshotRepository>
     <id>Platform-SNAPSHOT</id>
-    <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+    <url>http://localhost:9005/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
   <dependencies>
