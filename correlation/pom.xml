@@ -14,12 +14,12 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   
-  <!--<distributionManagement>
+  <distributionManagement>
     <snapshotRepository>
     <id>Platform-SNAPSHOT</id>
-    <url>http://localhost:9005/nexus/content/repositories/snapshots</url>
+    <url>http://localhost:9005/nexus/content/repositories/Platform-SNAPSHOT</url>
     </snapshotRepository>
-  </distributionManagement> -->
+  </distributionManagement>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
